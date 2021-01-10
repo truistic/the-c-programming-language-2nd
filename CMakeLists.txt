@@ -3,5 +3,7 @@ project(c C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(main main.c)
-add_executable(temperature temperature.c)
+add_executable(main chapter1/main.c)
+add_executable(temperature chapter1/temperature.c)
+add_executable(copy chapter1/copy.c)
+add_executable(count chapter1/count.c)
