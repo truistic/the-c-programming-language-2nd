@@ -14,6 +14,7 @@ add_executable(1.5.3_lines chapter1/examples/1.5.3_lines.c)
 add_executable(1.5.4_words chapter1/examples/1.5.4_words.c)
 add_executable(1.6_arrays chapter1/examples/1.6_arrays.c)
 add_executable(1.7_power chapter1/examples/1.7_power.c)
+add_executable(1.8_call_by_value chapter1/examples/1.8_call_by_value.c)
 
 # chapter1 exercises
 add_executable(1-01 chapter1/exercises/1-01.c)
