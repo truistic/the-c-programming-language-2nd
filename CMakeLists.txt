@@ -16,6 +16,7 @@ add_executable(1.6_arrays chapter1/examples/1.6_arrays.c)
 add_executable(1.7_power chapter1/examples/1.7_power.c)
 add_executable(1.8_call_by_value chapter1/examples/1.8_call_by_value.c)
 add_executable(1.9_longest_line chapter1/examples/1.9_longest_line.c)
+add_executable(1.10_external_variables chapter1/examples/1.10_external_variables.c)
 
 # chapter1 exercises
 add_executable(1-01 chapter1/exercises/1-01.c)
@@ -38,3 +39,4 @@ add_executable(1-16 chapter1/exercises/1-16.c)
 add_executable(1-17 chapter1/exercises/1-17.c)
 add_executable(1-18 chapter1/exercises/1-18.c)
 add_executable(1-19 chapter1/exercises/1-19.c)
+add_executable(1-20 chapter1/exercises/1-20.c)
